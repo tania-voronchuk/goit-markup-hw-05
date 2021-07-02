@@ -137,6 +137,9 @@ img {
     bottom: 0;
 }
 
+.active .link {
+    color: var(--accent-color);
+}
 
 /* auth nav */
 
